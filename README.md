@@ -5,7 +5,7 @@ A professional interactive analytics dashboard built with Streamlit and Plotly,
 inspired by Power BI design. Analyzes hospital appointment no-show patterns.
 
 ## 🔗 Live Demo
-[Click here to view the dashboard](https://yourname-hospital-dashboard.streamlit.app)
+[Click here to view the dashboard](https://hospital-noshow-dashboard.streamlit.app/)
 
 ## 📊 Dashboard Features
 
